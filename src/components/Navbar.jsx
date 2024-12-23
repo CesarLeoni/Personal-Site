@@ -186,11 +186,11 @@ const Navbar = () => {
         </div>
 
         {/* Mobile Menu */}
-        <div className="py-2 backdrop-blur-md lg:hidden">
-          <div className="flex items-center justify-between">
+        <div className="py-2 backdrop-blur-md border-b lg:hidden">
+          <div className="flex items-center  justify-between">
             <div>
               <a href="#">
-                <span className="pl-2 uppercase">Leoni Cesar</span>
+                <span className="pl-2 text-2xl">Leoni Cesar</span>
               </a>
             </div>
             <div className="flex items-center">
@@ -200,9 +200,9 @@ const Navbar = () => {
                 aria-label={isMobileMenuOpen ? 'Close Menu' : 'Open Menu'}
               >
                 {isMobileMenuOpen ? (
-                  <RiCloseLine className="m-2 h-6 w-5" />
+                  <RiCloseLine className="m-2 h-8 w-8" />
                 ) : (
-                  <RiMenu3Line className="m-2 h-6 w-5" />
+                  <RiMenu3Line className="m-2 h-8 w-8" />
                 )}
               </button>
             </div>
