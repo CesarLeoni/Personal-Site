@@ -187,7 +187,7 @@ const Navbar = () => {
 
         {/* Mobile Menu */}
         <div className="py-2 backdrop-blur-md border-b lg:hidden">
-          <div className="flex items-center  justify-between">
+          <div className="flex items-center justify-between">
             <div>
               <a href="#">
                 <span className="pl-2 text-2xl">Leoni Cesar</span>
