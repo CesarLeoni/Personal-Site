@@ -1,0 +1,12 @@
+frontend:
+    path: .
+    publish: dist
+    scripts:
+        build:
+            - npm run build
+        deploy:
+            - npm install
+    subdomain: personal-site
+name: personal-site
+region: eu-central-1
+yamlVersion: 2
