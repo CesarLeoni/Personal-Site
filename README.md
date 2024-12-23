@@ -1,7 +1,7 @@
 # My personal Portofolio Website
 
-## Reachable [HERE](https://personal-site.app.genez.io/)
+## Hosted [HERE](https://personal-site.app.genez.io/) by @Genezio
 
-## React framework and Vite. Uses Tailwind Css and GSAP for animations. Hope you like it.
+## React framework and Vite. Uses Tailwind Css and GSAP for animations.
 
 ## Enjoy :smile:
