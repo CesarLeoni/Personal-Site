@@ -1,8 +1,7 @@
-# React + Vite
+# My personal Portofolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Reachable [HERE](https://personal-site.app.genez.io/)
 
-Currently, two official plugins are available:
+## React framework and Vite. Uses Tailwind Css and GSAP for animations. Hope you like it.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Enjoy :smile:
